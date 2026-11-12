@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://saraos-luna-daniel-alonso.niceowl21.chatgpt.site/sitemap.xml
